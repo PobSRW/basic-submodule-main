@@ -1,0 +1,3 @@
+[submodule "basic-submodule-sub"]
+	path = basic-submodule-sub
+	url = https://github.com/PobSRW/basic-submodule-sub
